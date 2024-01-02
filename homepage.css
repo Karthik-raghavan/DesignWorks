@@ -1,0 +1,14 @@
+body {
+    background-image: url(background.webp);
+    color: bisque;
+    background-attachment: fixed;
+    font-size: larger;
+}
+
+a.contactcards {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+  }
